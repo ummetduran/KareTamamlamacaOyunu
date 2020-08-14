@@ -1,2 +1,2 @@
 # KareTamamlamacaOyunu
-Kare Tamamlamaca Oyunu Similasyonu
+Kare tamamlamaca oyunu, bir “kareli kağıt” üzerinde 2 oyuncu ile oynanan bir oyundur. Oyun, sadece dış kenarları çizili olan dikdörtgensel bir alan içinde oynanır. Sırası gelen oyuncu, bu alan içinde istediği bir karenin çizili olmayan bir kenarını çizer. Bu kenar, o karenin çizili olmayan son kenarı ise, kare tamamlanmış olur ve o kare, son kenarı çizen oyuncuya ait olur. Oyuncu, kare tamamladığı sürece kenar çizmeye devam edebilir. Oyunda amaç en fazla sayıda kareye sahip olmaktır.
